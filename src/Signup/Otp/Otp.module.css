@@ -1,0 +1,99 @@
+.main{
+    width: 100%;
+    height: 750px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-image: url('https://st.depositphotos.com/1635204/3354/i/450/depositphotos_33542881-stock-photo-black-scratched-background-or-texture.jpg');
+}
+.login_main{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZWp6T2jwlCuWLawa6rQv82Ni4XmPnjraHQxqLMsP9g8FZd38fF2_MIs-uiW_O3AK8Zk&usqp=CAU');
+    width: 400px;
+    height: 370px;
+
+    border-radius: 50px;
+    padding-left: 10px;
+    border: solid white 1px;
+}
+.log_div{
+    width:90%;
+    display: inline-block;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: rgb(208, 208, 208);
+    padding: 15px;
+
+}
+.btn_div{
+    width:93%;
+    display: inline-block;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 50px;
+    color: azure;
+    padding-left: 15px;
+  
+}
+.log_div1{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-size: 30px;
+    color: rgb(153, 153, 153);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.input{
+    border-radius: 50px;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    border: solid 3px rgb(27, 27, 106);
+}
+.input1{
+    border-radius: 50px;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    border: solid 3px rgb(105, 3, 3);
+    background-color: rgb(252, 252, 231);
+}
+.btn{
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.btn1{
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(8, 93, 15);
+    color: aliceblue;
+    cursor: grab;
+    font-size: 20px;
+    
+}
+.signup{
+    margin-top: 40px;
+    color: rgb(253, 255, 255);
+    cursor: grab;
+   
+}
+.signup1{
+    margin-top: 40px;
+    color: blue;
+    cursor: grab;
+    
+}
+.lbl{
+    cursor: grab;
+}
