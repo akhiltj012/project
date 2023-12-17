@@ -6,7 +6,6 @@ export const Otp = () => {
     const [enter, setEnter] = useState(false)
     const [signenter, setsignEnter] = useState(false)
     const [passenter, setPassEnter] = useState(false)
-    const [userenter, setUserEnter] = useState(false)
     const navigate = useNavigate();
     return (
         <div className={styles.main}>

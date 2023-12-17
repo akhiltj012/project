@@ -5,7 +5,6 @@ import { useNavigate } from "react-router-dom";
 
 export const SignUp = () => {
     const [enter, setEnter] = useState(false)
-    const [signenter, setsignEnter] = useState(false)
     const [passenter, setPassEnter] = useState(false)
     const [userenter, setUserEnter] = useState(false)
     const [userphEnter,setUserphEnter] = useState(false)
